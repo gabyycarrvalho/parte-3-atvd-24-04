@@ -1,0 +1,36 @@
+h1 {
+    text-align: center;
+    color: #0079d5;
+}
+
+p {
+    margin-top: 15px;
+    margin-left: 25px;
+    margin-right: 10px;
+}
+
+h4 {
+    margin-top: 20px;
+    margin-left: 20px;
+    color: #0079d5;
+}
+
+input,
+textarea {
+    width: 100%;
+    padding: 30px;
+    border: 0;
+    background-color: #0079d5;
+    color: #fff;
+    border-radius: 45px;
+}
+
+footer {
+    background-color: rgba(0, 0, 0, 0.552);
+    color: white;
+    font-weight: 700;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
